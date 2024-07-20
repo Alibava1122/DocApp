@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "421338399698",
+    "project_id": "edental-f4137",
+    "storage_bucket": "edental-f4137.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421338399698:android:1741ca04c898b217f0fe0b",
+        "android_client_info": {
+          "package_name": "com.sr7.e.dentalmart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "421338399698-ojm50no36spu1rdsllq6u6tauao10hvo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sr7.e.dentalmart",
+            "certificate_hash": "21104223343418d8e5fc71ab0d8685b70928cd3d"
+          }
+        },
+        {
+          "client_id": "421338399698-7ilaj9dvjg6gh7gq3u3rn95fuevbnmlr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_8PHwwp3ll9j36k8SJqH4_k2Et3bTT_o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "421338399698-7ilaj9dvjg6gh7gq3u3rn95fuevbnmlr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
